@@ -1,0 +1,6 @@
+framework module Pods_WDPhotoSelector_Swift {
+  umbrella header "Pods-WDPhotoSelector-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
